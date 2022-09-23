@@ -349,11 +349,7 @@ Hero
     max-width: 45rem;
   }
 }
-.line-break-independently {
-  text-indent: 2em;
-.line-break-operated {
-  text-indent: 6em;
-}
+
 /*
 =============== 
 About
