@@ -349,6 +349,9 @@ Hero
     max-width: 45rem;
   }
 }
+.line-break {
+  text-indent: 6em;
+}
 /*
 =============== 
 About
