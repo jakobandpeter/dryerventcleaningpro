@@ -311,6 +311,9 @@ Hero
 .hero-banner h1 {
   text-transform: uppercase;
 }
+.hero-banner span {
+    display: block;
+  }
 .hero-banner p {
   max-width: 35rem;
   margin-left: auto;
