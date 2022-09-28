@@ -348,6 +348,9 @@ Hero
   .hero-banner p {
     max-width: 45rem;
   }
+  .hero-banner span {
+    display: block;
+  }
 }
 
 /*
